@@ -1,0 +1,25 @@
+site_name: Arduino for Mere Mortals
+site_description: Plain-language Arduino guides — no CS degree required.
+site_url: https://paulsullivan33-dev.github.io/arduino-for-mere-mortals/
+
+# Guides live at the repo root (nice for GitHub browsing).
+# The deploy workflow copies them into docs/ before building.
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - What Arduino Is: what-arduino-is.md
+  - The Board: the-board.md
+  - Getting Set Up: getting-set-up.md
+  - Your First Sketch: first-sketch.md
+  - How Sketches Work: how-sketches-work.md
+  - Digital I/O: digital-io.md
+  - Analog: analog.md
+  - Serial: serial.md
+  - Sensors: sensors.md
+  - Libraries: libraries.md
+  - Power and Wiring: power-and-wiring.md
+  - Troubleshooting: troubleshooting.md
+  - Glossary: glossary.md
+  - Writing Criteria: criteria.md
